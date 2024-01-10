@@ -7,7 +7,7 @@
 - <b>Theoretical Foundations DFA Project</b>
   - [Deterministic Finite Automata Model](https://github.com/VentusLeon/DFA-Model)
 - <b>Python Download Organizer</b>
-  - [Download Organizer]([https://github.com/VentusLeon/DFA-Model](https://github.com/VentusLeon/Python-Download-Organizer))
+  - [Download Organizer](https://github.com/VentusLeon/Python-Download-Organizer)
 
 
 <h2> 🤳 Connect with me:</h2>
