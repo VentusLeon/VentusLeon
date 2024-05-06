@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Habit Building SPA</b>
+  - [Habit Builder](https://github.com/VentusLeon/Habit-Builder-SPA)
 - <b>Database Systems Class Final Project</b>
   - [YuGiOh! Card Organizer](https://github.com/VentusLeon/Database-Systems-Final-Project)
 - <b>Theoretical Foundations DFA Project</b>
