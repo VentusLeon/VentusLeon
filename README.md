@@ -14,8 +14,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a src="https://www.instagram.com/rholton02/" >📷 Instagram</a>
-<a src="www.linkedin.com/in/ryan-holton-62a79322b" >💬 LinkedIn</a>
+[📷 Instagram](https://www.instagram.com/rholton02/)
+[💬 LinkedIn](www.linkedin.com/in/ryan-holton-62a79322b)
 
 <a>Email: ryanholton1357@gmail.com</a>
 
