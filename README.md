@@ -14,10 +14,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<a>📷 Instagram</a>][linkedin]
-[<img align="center" alt="VentusLeon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a src="https://www.instagram.com/rholton02/" >📷 Instagram</a>
+<a src="www.linkedin.com/in/ryan-holton-62a79322b" >💬 LinkedIn</a>
+
 <a>Email: ryanholton1357@gmail.com</a>
 
 
-[instagram]: https://www.instagram.com/theboiiryan/
-[linkedin]: https://www.linkedin.com/in/ryan-holton-62a79322b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0yJsIkd1QeSVziazmmX6Qw%3D%3D
+
