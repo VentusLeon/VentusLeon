@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Habit Building SPA</b>
+- <b>Habit Building Vue.js Application</b>
   - [Habit Builder](https://github.com/VentusLeon/Habit-Builder-SPA)
-- <b>Database Systems Class Final Project</b>
+- <b>YuGiOh! Card Organizer (Database Systems Final Project)</b>
   - [YuGiOh! Card Organizer](https://github.com/VentusLeon/Database-Systems-Final-Project)
-- <b>Theoretical Foundations DFA Project</b>
+- <b>DFA Modeler (Theoretical Foundations Final Project)</b>
   - [Deterministic Finite Automata Model](https://github.com/VentusLeon/DFA-Model)
 - <b>Python Download Organizer</b>
   - [Download Organizer](https://github.com/VentusLeon/Python-Download-Organizer)
