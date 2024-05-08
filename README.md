@@ -14,7 +14,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="center" alt="VentusLeon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<a>📷 Instagram</a>][linkedin]
 [<img align="center" alt="VentusLeon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a>Email: ryanholton1357@gmail.com</a>
 
