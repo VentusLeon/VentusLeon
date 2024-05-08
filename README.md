@@ -18,6 +18,4 @@
 [💬 LinkedIn](https://www.linkedin.com/in/ryan-holton-62a79322b/)
 
 <a>Email: ryanholton1357@gmail.com</a>
-
-
-
+<a>Phone: (478)-349-9125</a>
